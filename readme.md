@@ -1,4 +1,4 @@
-#Blockchain Log System
+# A simmple Blockchain Log System
 
 A Blockchain-driven Log system running on Etheruem rinkeby test network.  
 
